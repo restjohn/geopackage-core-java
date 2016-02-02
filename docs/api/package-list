@@ -4,6 +4,7 @@ mil.nga.geopackage.core.srs
 mil.nga.geopackage.db
 mil.nga.geopackage.extension
 mil.nga.geopackage.extension.index
+mil.nga.geopackage.extension.link
 mil.nga.geopackage.factory
 mil.nga.geopackage.features.columns
 mil.nga.geopackage.features.user
